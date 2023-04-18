@@ -1,1 +1,2 @@
 sample text for file 3 under feature
+Modified files added now
